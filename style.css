@@ -1,0 +1,14 @@
+body {
+  padding: 10px;
+}
+
+input {
+    height:20px;
+    font-size:14pt;
+    margin: 10px;
+    width: 900px;
+}
+
+.textarea {
+text-align:left;  
+}
